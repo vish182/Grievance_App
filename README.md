@@ -1,6 +1,7 @@
-# chat_app_vish
+# Simple Grievance Addressing App
 
-A new Flutter application.
+User Creates A grievance, admin/support address the mwith one answer
+Implemented using firebase.
 
 ## Getting Started
 
