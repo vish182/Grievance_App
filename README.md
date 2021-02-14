@@ -1,7 +1,8 @@
 # Simple Grievance Addressing App
 
-User Creates A grievance, admin/support address the mwith one answer
-Implemented using firebase.
+User Creates A grievance. 
+admin/support address the issue with one answer.
+ Implemented using firebase.
 
 ## Getting Started
 
