@@ -3,7 +3,8 @@
 User Creates A grievance. 
 admin/support address the issue with one answer.
  Implemented using firebase.
-
+1)The welcome_screen.dart contains routes to both admin and user grievance pages, use them in required places with different "arguments"
+2) find TODO s in grievance.dart and new_grievance_screen.dart in screen's folder
 ## Getting Started
 
 This project is a starting point for a Flutter application.
